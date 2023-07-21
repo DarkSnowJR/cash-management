@@ -40,7 +40,7 @@ If you encounter any issues during the setup or running of the **Cash Management
 
 ## Support
 
-For any questions or support related to the **Cash Management** project, you can reach out to us at [support@example.com](mailto:great.kian2001@gmail.com).
+For any questions or support related to the **Cash Management** project, you can reach out to us at [great.kian2001@gmail.com](mailto:great.kian2001@gmail.com).
 
 ## Contributing
 
