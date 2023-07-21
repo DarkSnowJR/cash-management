@@ -23,7 +23,7 @@ Docker Compose will take care of setting up the necessary containers and depende
 
 ## Accessing the Project
 
-After successfully running the project, you can access it through your web browser by navigating to `http://localhost:8000`. The **Cash Management** application will be available on this URL.
+After successfully running the project, you can access it through your web browser by navigating to `http://localhost:8000/doc`. The **Cash Management** application will be available on this URL.
 
 ## Additional Notes
 
@@ -40,7 +40,7 @@ If you encounter any issues during the setup or running of the **Cash Management
 
 ## Support
 
-For any questions or support related to the **Cash Management** project, you can reach out to us at [support@example.com](mailto:support@example.com).
+For any questions or support related to the **Cash Management** project, you can reach out to us at [support@example.com](mailto:great.kian2001@gmail.com).
 
 ## Contributing
 
