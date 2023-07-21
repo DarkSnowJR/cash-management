@@ -49,6 +49,3 @@ We welcome contributions to this project. If you'd like to contribute, please fo
 ## License
 
 The **Cash Management** project is released under the [MIT License](./LICENSE). See the LICENSE file for more details.
-
----
-Please replace the placeholder [your-username] with your actual GitHub username if you're hosting the project on GitHub. Additionally, ensure that you have the correct port (8000) mentioned in the instructions. Customize the README further if needed, adding sections like features, known issues, or future improvements to provide more context to users.
